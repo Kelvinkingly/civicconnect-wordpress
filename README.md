@@ -1,5 +1,9 @@
 # CivicConnect — Municipal Digital Services Portal
 
+[![civicconnect homepage](https://raw.githubusercontent.com/Kelvinkingly/Kelvinkingly/main/assets/civicconnect-homepage.jpg)](https://civicconnect-knowedge.infinityfreeapp.com/)
+
+**[Visit the live website](https://civicconnect-knowedge.infinityfreeapp.com/)**
+
 An independently developed WordPress portfolio project from KnowEdge Business Development Services Ltd. It is not affiliated with a government or municipality.
 
 ## Features
